@@ -45,7 +45,7 @@ This repository highlights selected projects that demonstrate my practical skill
 - Identified key security gaps including lack of least privilege, absence of encryption, missing backups, and insufficient monitoring controls.
 - Produced a formal **Controls and Compliance Checklist** with documented findings and recommendations.
 
-🔗 **Repository:** https://github.com/klepzhue/Botium-toys-internal-audit
+🔗 **Repository:** https://github.com/AvneeshNair/Botium-toys-internal-audit
 
 ---
 
