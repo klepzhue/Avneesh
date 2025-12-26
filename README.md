@@ -50,7 +50,7 @@ This repository highlights selected projects that demonstrate my practical skill
 ---
 
 ## Learning & Certifications
-- Google Cybersecurity Certificate (in progress / completed)
+- Google Cybersecurity Certificate (in progress)
 - Continuous self-study through labs, documentation, and security communities
 
 ---
